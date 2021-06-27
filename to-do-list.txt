@@ -1,0 +1,133 @@
+- make a python backend for the search box, add it as method and action in the
+- https://stackoverflow.com/questions/29734208/how-can-i-connect-my-python-script-with-my-html-file
+  - https://pypi.org/project/Flask/ (flask)
+  - https://stackoverflow.com/questions/17917254/how-to-install-flask-on-windows
+<form> in index.html and paste it into any other pages. - no need
+#dfb162-#00ccff
+#e9c37a,#d2ba70-#00f7ff
+#ffb600,#e2b262,#e4b563,#e0b262,#e2b15e-#00eeff
+fix social links
+fix footer columns - done
+fix all titles - done
+part ner with CODE initiative
+contact stemchat for partnership - outreach@stemchats.org, and student seas
+- aesthetics 
+  - index default
+    banner should stay
+    3 block is nice, must have
+    6 block is also nice, but perhaps useless
+        maybe blogs
+    image library, not yet useful, nice, but for publishing might be nice.
+    home design made easy page is nice, for call for action
+    what our customer say is pointless. 
+    our work process is good, use that
+    need a design fix, not that good, for blog, perhaps. 
+    the call for action one stay, put a random quote.
+  - index 2
+    the why choose for us for interior work is good, add into home page
+  - index 3 
+    the form is nice for contact, replace the contact form
+  - index 4
+  - blog page is nice, can be used for later
+  - our team page is perfect for about us
+  - we can delete the inspiration later if we do not need it
+    But nice for more in depth for each topic. 
+  - portfolios for projects are nice.
+
+- edit all footers, add action to newsletter form later, but replace them with other things. create a backend for it. 
+
+- flask support links
+  https://kb.amijani.net/general-article/how-to-install-flask-in-windows-10/
+
+  Learn php for backend
+  - create functional search bar
+  - make functional forms
+  - make functional comment sections in blogs
+
+- transfer everything to the new repo
+
+
+Webpage to do list:
+  - index
+    - done
+
+- about
+  - done
+
+- calendar
+  - done
+
+- contact
+  - done 
+
+- feedback
+  - done
+
+- join-us
+  - done
+
+- summer-program
+  - replace the video link
+
+- testimonials
+  - done 
+
+- blogs
+  - blog_how_to_make_anything 
+    - done 
+  - blog_how_to_manage_your_time
+    - done
+  - blog_prion_disease
+    - wait for content
+  - blog_where_to_find_learning _resources
+    - done
+  - blog_poseidon
+    - check title and formatting
+  - blog_foil_data_augmentation
+    - done
+  
+  -blog
+    - done
+    
+    - blog-CAD 
+    - blog-coding
+    - blog-ideas
+    - blog-projects
+    - blog-robotics
+    - blog-stories
+      - all done
+
+- projects
+    - create an introduction and write some more details about it. 
+      - write some placeholder projects
+        - Poseidon
+        - SSI research project
+        - prion disease blog
+          - all done
+        
+- write an introduction for each of theme 
+  - projects-creative
+  - projects-other
+  - projects-research
+  - projects-studies
+    - all done
+
+- services
+  - sessions
+    - done
+  - service
+    - done
+  - services-publishing
+    - done
+  - services-resources
+    - done
+  - services-tutorials1
+    - done
+
+- forms
+  - create the forms
+    - add exception for 14- volunteers
+
+checkout this place - https://www.vistaprint.ca/digital-marketing/domains?rd=1
+- investigate the domain size (how much webspace will we have)
+
