@@ -1,0 +1,55 @@
+Program length: 4 weeks, 3 days per week, 2 hours per session, with 5 minute break in between.
+Offer another 2 week extension. 
+Program start and end date: July 19th - August 13, and August 27 for the extension.
+Tuition: N/A
+
+Send out a tech instruction email by July 12
+Opening "convocation": July 18th
+Tech troubleshoot: July 14, 16
+Each week schedule: Monday, Wednesday, Friday. 
+Monday: Rayan - Html and CSS
+Wednesday: Rayan, Grace - Scratch and JS
+Friday: Grace - CAD
+
+ext: self led project -make a website about your project
+Monday: Python
+Wednesday: check-in sessions
+Friday: analysis and complex modeling
+
+Target Outcome:
+- To be able to make a functional website.
+- To be able to make a functional project.
+- To be able to design and render components. 
+
+Syllabus: Done
+
+- cc each other on the emails
+Advertising: Rayan's sister and old network
+Other student's siblings
+- CODE initiative   
+    - 
+- Jade 
+    - Grace
+- Carrigan
+    - Grace 
+- grade 4-5 kids - Rayan
+    - maddie huchinson
+    - wayne liu
+    - felix Nicholson
+    - nathan plasterer
+    - harlow mccaw
+    - haolin feng 
+    - carol zhang
+- Ms. Mohoruk
+    - grace
+- Ms. Hops
+    - Grace
+- Ms. Chen
+    - Grace
+
+Finish everything by 24th
+Rayan edit by 26th
+Function trial from someone by 28th
+Publish by 29th
+
+https://medium.com/hackernoon/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b
